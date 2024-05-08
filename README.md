@@ -20,7 +20,7 @@ git clone https://github.com/yourusername/PersonalFinanceManager-GUI-Based-.git
 
 
 #### 2. Navigate to the cloned repository:
-cd PersonalFinanceManager-GUI-Based-
+cd PersonalFinanceManager-GUI-Based
 
 ### Running the Application
 To run the application, execute the following command in the terminal:
